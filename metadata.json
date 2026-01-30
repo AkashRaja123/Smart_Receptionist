@@ -1,0 +1,5 @@
+{
+  "name": "SmartReceptionist",
+  "description": "An AI-powered indoor navigation and facility management system that uses Vision AI to analyze building blueprints and provide intelligent routing for visitors, staff, and patients.",
+  "requestFramePermissions": []
+}
